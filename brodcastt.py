@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # Bot Configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "YOUR"
 ADMIN_ID = YOUR_ADMIN_ID_HERE
 
 # Conversation states
