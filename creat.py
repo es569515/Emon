@@ -9,8 +9,8 @@ from telethon.tl.types import InputPeerChannel, ChatAdminRights, InputPeerUser
 # CONFIG - Replace with your info
 # ------------------------------
 api_id = 20505183                # <-- Your API ID
-api_hash = '935939ffdecb9d95d67278af3bdbc971'     # <--> Your API Hash
-phone_number = '+8801714636409'   # <-- Your phone number
+api_hash = '935939f******f3bdbc971'     # <--> Your API Hash
+phone_number = '+8801*****6409'   # <-- Your phone number
 
 # Bots to add to each group
 bots = [
